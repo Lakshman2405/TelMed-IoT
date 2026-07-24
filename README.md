@@ -368,4 +368,5 @@ npm start
 
 ---
 
-*Documentation compiled and verified for TeleMed-IoT Repository.*
+## Author
+Sikhakolli Lakshman Guru Sai
